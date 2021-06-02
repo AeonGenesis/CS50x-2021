@@ -28,19 +28,60 @@ Week 2 - Arrays
 	-   Substitution
 
 Week 3 - Algorithms
- -  Lab 3: Population Growth
-	   - sort
+ -  Lab 3: 
+	   - Population
  -  Problem Set 3:
 	-   Plurality
 	-   Runoff
 	-   Tideman
 
 Week 4 - Memory
- -  Lab 4: Volume
+ -  Lab 4: 
+ 	-  Volume
+ -  Problem Set 4:
  	-  Filter:
- 	  - more
- 	  - less
- -  Problem Set 3:
-	-   Plurality
-	-   Runoff
-	-   Tideman
+ 		- more
+ 		- less
+ 	-  Recover
+
+Week 5 Data Structures
+ -  Lab 5: 
+ 	-  inheritance
+ -  Problem Set 5:
+ 	-  speller
+
+Week 6 - Python
+ -  Lab 6: 
+ 	-  worldcup
+ -  Problem Set 6:
+ 	-  hello 
+ 	-  mario
+ 		- more
+ 		- less
+	-   cash
+	-   credit
+	-   readability
+	-   DNA
+
+Week 7 - SQL
+ -  Lab 7: 
+ 	-  songs
+ -  Problem Set 7: 
+ 	-  movies
+ 	-  fiftyville
+
+Week 8 - HTML, CSS, JavaScript
+ -  Lab 8: 
+ 	-  trivia
+ -  Problem Set 8: 
+ 	-  homepage
+
+Week 9 - Flask
+ -  Lab 9: 
+ 	-  birthdays
+ -  Problem Set 9: 
+ 	-  finance
+
+Week 10 - Ethics
+
+Final Project
